@@ -1,4 +1,4 @@
-//kadane algorithm Sliding window-pointer approach
+#kadane algorithm Sliding window-pointer approach-53 medium
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
         currsum=0
